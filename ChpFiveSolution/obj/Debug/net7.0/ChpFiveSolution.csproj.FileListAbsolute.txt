@@ -1,0 +1,14 @@
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\bin\Debug\net7.0\ChpFiveSolution.exe
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\bin\Debug\net7.0\ChpFiveSolution.deps.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\bin\Debug\net7.0\ChpFiveSolution.runtimeconfig.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\bin\Debug\net7.0\ChpFiveSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\bin\Debug\net7.0\ChpFiveSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.AssemblyInfoInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.AssemblyInfo.cs
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.csproj.CoreCompileInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\refint\ChpFiveSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ChpFiveSolution.genruntimeconfig.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFiveSolution\obj\Debug\net7.0\ref\ChpFiveSolution.dll

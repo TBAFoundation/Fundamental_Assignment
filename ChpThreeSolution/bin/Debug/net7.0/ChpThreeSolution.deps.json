@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ChpThreeSolution/1.0.0": {
+        "runtime": {
+          "ChpThreeSolution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChpThreeSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\bin\Debug\net7.0\ChpThreeSolution.exe
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\bin\Debug\net7.0\ChpThreeSolution.deps.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\bin\Debug\net7.0\ChpThreeSolution.runtimeconfig.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\bin\Debug\net7.0\ChpThreeSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\bin\Debug\net7.0\ChpThreeSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.AssemblyInfoInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.AssemblyInfo.cs
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.csproj.CoreCompileInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\refint\ChpThreeSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ChpThreeSolution.genruntimeconfig.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpThreeSolution\obj\Debug\net7.0\ref\ChpThreeSolution.dll

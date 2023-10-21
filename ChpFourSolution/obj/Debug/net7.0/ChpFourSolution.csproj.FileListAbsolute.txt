@@ -1,0 +1,14 @@
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\bin\Debug\net7.0\ChpFourSolution.exe
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\bin\Debug\net7.0\ChpFourSolution.deps.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\bin\Debug\net7.0\ChpFourSolution.runtimeconfig.json
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\bin\Debug\net7.0\ChpFourSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\bin\Debug\net7.0\ChpFourSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.AssemblyInfoInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.AssemblyInfo.cs
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.csproj.CoreCompileInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\refint\ChpFourSolution.dll
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.pdb
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ChpFourSolution.genruntimeconfig.cache
+C:\Users\TB\Desktop\MGQSAssessment\Fun_of_Com_Prog_C#\ChpFourSolution\obj\Debug\net7.0\ref\ChpFourSolution.dll
