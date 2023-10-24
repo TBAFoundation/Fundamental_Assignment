@@ -6,7 +6,11 @@
         // Question2();
         // Question3();
         // Question4();
+<<<<<<< HEAD
         // Question5();
+=======
+        Question5();
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
         Question6();
         Question7();
         Question8();
@@ -83,7 +87,10 @@
     static void Question4()
     {
         // 4. Write a program that prints all possible cards from a standard deck of cards, without jokers (there are 52 cards: 4 suits of 13 cards).
+<<<<<<< HEAD
         Console.WriteLine("=====Question 5 - Program Printing all Possible Cards=====");
+=======
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
         for (int cardNumber = 1; cardNumber <= 52; cardNumber++)
         {
             int suit = (cardNumber - 1) / 13;
@@ -97,6 +104,10 @@
                 3 => "Clubs",
                 _ => throw new ArgumentException("Invalid card number")
             };
+<<<<<<< HEAD
+=======
+
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
             string rankName = rank switch
             {
                 1 => "Ace",
@@ -113,6 +124,7 @@
     static void Question5()
     {
         // 5. Write a program that reads from the console number N and print the sum of the first N members of the Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, …
+<<<<<<< HEAD
         Console.WriteLine("=====Question 5 - first N member of Fibonacci sequence=====");
         Console.Write("Enter N member of Fibonacci Sequence: ");
         int numTerms = int.Parse(Console.ReadLine()!); 
@@ -129,10 +141,13 @@
             prev1 = prev2;
             prev2 = current;
         }
+=======
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
     }
     static void Question6()
     {
         // 6. Write a program that calculates N!/K! for given N and K (1<K<N).
+<<<<<<< HEAD
         Console.WriteLine("=====Question 5 - program that calculates N!/K! for given N and K (1<K<N)=====");
         Console.Write("Enter the value of N: ");
         int N = int.Parse(Console.ReadLine()!);
@@ -156,10 +171,13 @@
 
         long result = factorialNK;
         Console.WriteLine($"N!/K! = {result}");
+=======
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
     }
     static void Question7()
     {
         // 7. Write a program that calculates N!*K!/(N-K)! for given N and K (1<K<N).
+<<<<<<< HEAD
         Console.WriteLine("=====Question 6 - program that calculates N!*K!/(N-K)! for given N and K (1<K<N)=====");
         Console.Write("Enter the value of N: ");
         int N = int.Parse(Console.ReadLine()!);
@@ -188,6 +206,8 @@
             }
         }
         Console.WriteLine($"N!*K!/(N-K)! = {result}");
+=======
+>>>>>>> 812e9e6ce588415ed551d005b764429f5fc2180e
     }
     static void Question8()
     {
