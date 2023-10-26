@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ChpSixSolution1/1.0.0": {
+        "runtime": {
+          "ChpSixSolution1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChpSixSolution1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

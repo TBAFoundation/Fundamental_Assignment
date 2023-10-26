@@ -7,8 +7,8 @@
         // Question3();
         // Question4();
         // Question5();
-        Question6();
-        Question7();
+        // Question6();
+        // Question7();
         Question8();
         Question9();
         Question10();
@@ -193,6 +193,19 @@
     static void Question8()
     {
         // 8. In combinatorics, the Catalan numbers are calculated by the following formula: for n ≥ 0. Write a program that calculates the nth Catalan number by given n.
+        Console.WriteLine("=====Question 8 - Program for calculating N Catalan Numbers=====");
+        Console.Write("Enter the value of N: ");
+        int N = int.Parse(Console.ReadLine()!);
+
+        if (N < 0)
+        {
+            Console.WriteLine("Invalid values! N must not be less than Zero.");
+            return;
+        }
+        long upper = 2 * N;
+        long down = (N + 1);
+        decimal factorialN = 1;
+
     }
     static void Question9()
     {
