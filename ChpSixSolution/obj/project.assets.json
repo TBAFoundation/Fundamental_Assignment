@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
-      "projectName": "ChpSixSolution",
-      "projectPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
+      "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution1.csproj",
+      "projectName": "ChpSixSolution1",
+      "projectPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution1.csproj",
       "packagesPath": "C:\\Users\\TB\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\obj\\",
       "projectStyle": "PackageReference",
