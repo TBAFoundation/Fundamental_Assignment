@@ -13,13 +13,13 @@
         // Question9();
         // Question10();
         // Question11();
-        Question12();
-        Question13();
+        // Question12();
+        // Question13();
         Question14();
         Question15();
-        Question16();
-        Question17();
-        Question18();
+        // Question16();
+        // Question17();
+        // Question18();
     }
     static void Question1()
     {
@@ -296,12 +296,12 @@
         // 12. Write a program that converts a given number from decimal to binary notation (numeral system).
         Console.WriteLine("=====Question 12 - Convert decimal to binary=====");
         Console.Write("Enter a decimal number: ");
-        decimal decimalNumber = decimal.Parse(Console.ReadLine()!);
+        int decimalNumber = int.Parse(Console.ReadLine()!);
 
         string binaryNumber = "";
         while (decimalNumber > 0)
         {
-            decimal remainder = decimalNumber % 2;
+            int remainder = decimalNumber % 2;
             binaryNumber = remainder.ToString() + binaryNumber;
             decimalNumber /= 2;
         }
