@@ -9,10 +9,10 @@
         // Question5();
         // Question6();
         // Question7();
-        Question8();
-        Question9();
-        Question10();
-        Question11();
+        // Question8();
+        // Question9();
+        // Question10();
+        // Question11();
         Question12();
         Question13();
         Question14();
@@ -218,10 +218,10 @@
     {
         // 9. Write a program that for a given integers n and x, calculates the sum: S = 1 + (1!/x) + (2!/x^2) + ... + (n!/x^n)
         Console.WriteLine("=====Question 9 - program that for a given integers n and x, calculates the sum=====");
-        Console.WriteLine("Enter a positive integer n:");
+        Console.Write("Enter a positive integer n: ");
         int n = int.Parse(Console.ReadLine()!);
 
-        Console.WriteLine("Enter a real number x:");
+        Console.Write("Enter a real number x: ");
         double x = double.Parse(Console.ReadLine()!);
 
         double sum = 0;
@@ -247,7 +247,7 @@
     {
         // 10. Write a program that reads from the console a positive integer number N (N < 20) and prints a matrix of numbers as on the figures below: N = 3 N = 4
         Console.WriteLine("=====Question 10 - Program that print the matrix of a given N number for (N < 20)=====");
-        Console.WriteLine("Enter a positive integer N (N < 20):");
+        Console.Write("Enter a positive integer N (N < 20): ");
         int N = int.Parse(Console.ReadLine()!);
 
         if (N >= 20)
@@ -279,7 +279,7 @@
     {
         // 11. Write a program that calculates with how many zeroes the factorial of a given number ends. Examples: N = 10 -> N! = 3628800 -> 2 N = 20 -> N! = 2432902008176640000 -> 4
         Console.WriteLine("=====Question 11 - Calculate trailing zeroes in factorial=====");
-        Console.WriteLine("Enter a number:");
+        Console.Write("Enter a number: ");
         int n = int.Parse(Console.ReadLine()!);
 
         int trailingZeroes = 0;
@@ -295,13 +295,13 @@
     {
         // 12. Write a program that converts a given number from decimal to binary notation (numeral system).
         Console.WriteLine("=====Question 12 - Convert decimal to binary=====");
-        Console.WriteLine("Enter a decimal number:");
-        int decimalNumber = int.Parse(Console.ReadLine()!);
+        Console.Write("Enter a decimal number: ");
+        decimal decimalNumber = decimal.Parse(Console.ReadLine()!);
 
         string binaryNumber = "";
         while (decimalNumber > 0)
         {
-            int remainder = decimalNumber % 2;
+            decimal remainder = decimalNumber % 2;
             binaryNumber = remainder.ToString() + binaryNumber;
             decimalNumber /= 2;
         }
@@ -311,7 +311,7 @@
     {
         // 13. Write a program that converts a given number from binary to decimal notation.
         Console.WriteLine("=====Question 13 - Convert binary to decimal=====");
-        Console.WriteLine("Enter a binary number:");
+        Console.Write("Enter a binary number: ");
         string binaryString = Console.ReadLine()!;
 
         int decimalValue = 0;
@@ -328,7 +328,7 @@
     {
         // 14. Write a program that converts a given number from decimal to hexadecimal notation.
         Console.WriteLine("=====Question 14 - Convert decimal to hexadecimal=====");
-        // Console.WriteLine("Enter a decimal number:");
+        // Console.Write("Enter a decimal number: ");
         // int decimalNum = int.Parse(Console.ReadLine());
 
         // string hexadecimalNum = "";
@@ -345,7 +345,7 @@
     {
         // 15. Write a program that converts a given number from hexadecimal to decimal notation.
         Console.WriteLine("=====Question 15 - Convert hexadecimal to decimal=====");
-        Console.WriteLine("Enter a hexadecimal number:");
+        Console.Write("Enter a hexadecimal number: ");
         string hexadecimalString = Console.ReadLine()!;
 
         int decimalValue = 0;
@@ -374,7 +374,7 @@
     {
         // 16. Write a program that by a given integer N prints the numbers from 1 to N in random order.
         Console.WriteLine("=====Question 16 - Print numbers from 1 to N in random order=====");
-        Console.WriteLine("Enter a number:");
+        Console.Write("Enter a number: ");
         int num = int.Parse(Console.ReadLine()!);
 
         int[] numbers = new int[num];
@@ -424,7 +424,7 @@
     {
         // 18. * Write a program that for a given number n, outputs a matrix in the form of a spiral: Example for n=4:
         Console.WriteLine("=====Question 18 - Print matrix in spiral order=====");
-        Console.WriteLine("Enter a number:");
+        Console.Write("Enter a number: ");
         int n = int.Parse(Console.ReadLine()!);
 
         int[,] matrix = new int[n, n];
