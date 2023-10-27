@@ -2,24 +2,24 @@
 {
     static void Main(string[]args)
     {
-        // Question1();
-        // Question2();
-        // Question3();
-        // Question4();
-        // Question5();
-        // Question6();
-        // Question7();
-        // Question8();
-        // Question9();
-        // Question10();
-        // Question11();
-        // Question12();
-        // Question13();
+        Question1();
+        Question2();
+        Question3();
+        Question4();
+        Question5();
+        Question6();
+        Question7();
+        Question8();
+        Question9();
+        Question10();
+        Question11();
+        Question12();
+        Question13();
         Question14();
         Question15();
-        // Question16();
-        // Question17();
-        // Question18();
+        Question16();
+        Question17();
+        Question18();
     }
     static void Question1()
     {
@@ -328,18 +328,17 @@
     {
         // 14. Write a program that converts a given number from decimal to hexadecimal notation.
         Console.WriteLine("=====Question 14 - Convert decimal to hexadecimal=====");
-        // Console.Write("Enter a decimal number: ");
-        // int decimalNum = int.Parse(Console.ReadLine());
+        Console.Write("Enter a decimal number: ");
+        int decimalNum = int.Parse(Console.ReadLine()!);
 
-        // string hexadecimalNum = "";
-        // while (decimalNum > 0)
-        // {
-        //     int remainder = decimalNum % 16;
-        //     char hexDigit = GetHexDigit(remainder);
-        //     hexadecimalNum = hexDigit + hexadecimalNum;
-        //     decimalNum /= 16;
-        // }
-        // Console.WriteLine($"Hexadecimal representation: {hexadecimalNum}");
+        string hexadecimalNum = "";
+        while (decimalNum > 0)
+        {
+            int remainder = decimalNum % 16;
+            hexadecimalNum = remainder.ToString() + hexadecimalNum;
+            decimalNum /= 16;
+        }
+        Console.WriteLine($"Hexadecimal representation: {hexadecimalNum}");
     }
     static void Question15()
     {
