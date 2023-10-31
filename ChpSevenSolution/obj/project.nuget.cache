@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "foxKk68wZk7dweTCtnWq1cKc6RlE8KLE5kO6VJhjh6CToHt2crNXg9mDm0mkExejTrpPV2ECqU5sT/NUYDD8Ow==",
+  "dgSpecHash": "BWGrqzuINbgZlQqO7qYtxuNbJ6dGVPs8GiOpU+OhuJp4MsvZ3Z4/oNFa+8vYXUzXxJsx9CjwhiSK/3N5tPyY7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
+  "projectFilePath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }

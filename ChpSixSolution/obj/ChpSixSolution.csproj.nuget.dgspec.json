@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {}
+    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {
+    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
+        "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
         "projectName": "ChpSixSolution",
-        "projectPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
+        "projectPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
         "packagesPath": "C:\\Users\\TB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSixSolution\\obj\\",
+        "outputPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TB\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.AssemblyInfoInputs.cache
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.AssemblyInfo.cs
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.csproj.CoreCompileInputs.cache
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\bin\Debug\net7.0\ChpSevenSolution.exe
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\bin\Debug\net7.0\ChpSevenSolution.deps.json
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\bin\Debug\net7.0\ChpSevenSolution.runtimeconfig.json
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\bin\Debug\net7.0\ChpSevenSolution.dll
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\bin\Debug\net7.0\ChpSevenSolution.pdb
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.dll
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\refint\ChpSevenSolution.dll
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.pdb
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ChpSevenSolution.genruntimeconfig.cache
+C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSevenSolution\obj\Debug\net7.0\ref\ChpSevenSolution.dll

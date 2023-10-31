@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
+      "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
       "projectName": "ChpSevenSolution",
-      "projectPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
+      "projectPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
       "packagesPath": "C:\\Users\\TB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\",
+      "outputPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }

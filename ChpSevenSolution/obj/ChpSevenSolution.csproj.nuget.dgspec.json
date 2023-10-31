@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj": {}
+    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj": {
+    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
+        "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
         "projectName": "ChpSevenSolution",
-        "projectPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
+        "projectPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\ChpSevenSolution.csproj",
         "packagesPath": "C:\\Users\\TB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TB\\Desktop\\MGQSAssessment\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\",
+        "outputPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSevenSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TB\\AppData\\Roaming\\NuGet\\NuGet.Config",
