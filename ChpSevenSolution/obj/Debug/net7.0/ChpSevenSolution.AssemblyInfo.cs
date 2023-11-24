@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChpSevenSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae670256708c289227fe383acf353ca6b36432c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChpSevenSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChpSevenSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

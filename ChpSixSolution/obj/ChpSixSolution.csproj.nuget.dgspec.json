@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\MGQSC#CLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {
+    "C:\\Users\\DELL\\Desktop\\MGQSC#CLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MGQSC#CLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
         "projectName": "ChpSixSolution",
-        "projectPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
-        "packagesPath": "C:\\Users\\TB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TB\\Desktop\\MGQSCLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\MGQSC#CLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\ChpSixSolution.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\MGQSC#CLASS\\Fun_of_Com_Prog_C#\\ChpSixSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

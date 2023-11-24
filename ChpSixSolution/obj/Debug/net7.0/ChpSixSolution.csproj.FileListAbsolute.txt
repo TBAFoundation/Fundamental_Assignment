@@ -26,3 +26,17 @@ C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0
 C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.pdb
 C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.genruntimeconfig.cache
 C:\Users\TB\Desktop\MGQSCLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ref\ChpSixSolution.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\bin\Debug\net7.0\ChpSixSolution.exe
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\bin\Debug\net7.0\ChpSixSolution.deps.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\bin\Debug\net7.0\ChpSixSolution.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\bin\Debug\net7.0\ChpSixSolution.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\bin\Debug\net7.0\ChpSixSolution.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\refint\ChpSixSolution.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ChpSixSolution.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\Fun_of_Com_Prog_C#\ChpSixSolution\obj\Debug\net7.0\ref\ChpSixSolution.dll
